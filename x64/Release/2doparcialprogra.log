@@ -1,0 +1,4 @@
+﻿  2doparcialprogra.cpp
+  empleados.cpp
+2doparcialprogra.obj : error LNK2001: símbolo externo "void __cdecl modificar(void)" (?modificar@@YAXXZ) sin resolver
+C:\Users\USUARIO\Desktop\Progra\2doparcialprogra\x64\Release\2doparcialprogra.exe : fatal error LNK1120: 1 externos sin resolver
